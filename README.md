@@ -1,6 +1,6 @@
 # EjercicioPractivo_AnalisisAlgoritmos
 
-Ervin Alejandro Us Hernández
+    Ervin Alejandro Us Hernández
 
 # Análisis de Eficiencia de Algoritmos de Ordenamiento
 

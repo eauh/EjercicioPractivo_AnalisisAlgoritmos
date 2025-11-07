@@ -28,3 +28,28 @@ Para esto se cargara un excel con la tabla a este proyecto.
 ## Conclusión
 
 Para listas grandes, `sorted()` es la opción recomendada por su rendimiento superior. Bubble Sort es útil para fines didácticos pero no práctico en producción.
+
+
+
+
+Diego Sebastían Méndez López
+
+## Objetivo
+En este ejercicio, comparamos el algoritmo Bubble Sort y el método sorted de Python, y a su vez, estamos practicando 
+con la interfaz de Git y Git Hub.
+
+## Algoritmos implementados
+
+- Bubble sort: Es un algoritmo de ordenamiento simple.
+- Sorted: Método más optimizaco en Python.
+
+
+## Análisis
+
+- Bubble sort: Se muestra un aumento cuadrático, en cuanto más grande la lista.
+- Sorted: Es mucho más rápido y escalable.
+
+
+## Conclusión
+
+Para listas grandes sorted es la mejor opción, aún con lsitas pequeñas, sigue siendo la mejor opción, sin embargo, para fines prácticos no es recomendable.

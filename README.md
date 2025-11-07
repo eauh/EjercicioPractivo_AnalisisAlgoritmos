@@ -29,6 +29,7 @@ Para esto se cargara un excel con la tabla a este proyecto.
 
 Para listas grandes, `sorted()` es la opción recomendada por su rendimiento superior. Bubble Sort es útil para fines didácticos pero no práctico en producción.
 
+<<<<<<< HEAD
 
 
 
@@ -53,3 +54,12 @@ con la interfaz de Git y Git Hub.
 ## Conclusión
 
 Para listas grandes sorted es la mejor opción, aún con lsitas pequeñas, sigue siendo la mejor opción, sin embargo, para fines prácticos no es recomendable.
+=======
+## Nombre: 
+    Jesús Angel Camposeco Cardenas
+## Objetivo
+    Este practica tiene como objetivo implementar el algoritmo Bubble Sort para ordenar listas de datos numéricos, comprendiendo su funcionamiento interno y evaluando su eficiencia temporal y espacial frente al método de ordenamiento nativo de Python (sorted()), con el fin de determinar su idoneidad en diferentes contextos de tamaño de entrada.
+
+## Explicacion
+    El Bubble Sort u ordenamiento de burbuja es un algoritmo de ordenamiento que funciona comparando pares de elementos adyacentes en una lista y intercambiándolos si están en el orden incorrecto. Este proceso se repite varias veces hasta que la lista queda completamente ordenada.
+>>>>>>> ae56d07bb14e523bb11a3aec9986375872d3137a

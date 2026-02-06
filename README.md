@@ -61,3 +61,5 @@ Para listas grandes sorted es la mejor opción, aún con lsitas pequeñas, sigue
 ## Explicacion
 
     El Bubble Sort u ordenamiento de burbuja es un algoritmo de ordenamiento que funciona comparando pares de elementos adyacentes en una lista y intercambiándolos si están en el orden incorrecto. Este proceso se repite varias veces hasta que la lista queda completamente ordenada.
+
+Actualizado desde Jenkins el Fri Feb  6 04:23:01 UTC 2026
